@@ -1,8 +1,11 @@
 # ContentDM-Disqus
 This script will overwrite the built-in comments function for ContentDM and replace it with the Disqus commenting system and is based on item level information
 
+## Download
+To download, click on the Download ZIP button on the right side and extract the zipped file.
+
 ## Install
-1) Replace the values for **disqus_shortname** and **baseDomain** within the script
+1) Replace the values for **disqus_shortname** and **baseDomain** within the disqus.php script
 * For shortname information, please review the Disqus documentation at https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 * The base domain is the root of the url that patrons go to when viewing collections
 
